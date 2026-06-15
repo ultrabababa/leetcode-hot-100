@@ -1,5 +1,7 @@
 package lru_cache
 
+// 6.15做过
+
 // Node 定义双向链表的节点
 type Node struct {
 	Key  int
