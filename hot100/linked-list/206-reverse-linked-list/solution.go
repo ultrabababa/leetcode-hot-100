@@ -2,6 +2,8 @@ package reverse_linked_list
 
 import . "leetcode/hot100/linked-list/common"
 
+// last review 6.17
+
 func reverseList(head *ListNode) *ListNode {
 	var prev *ListNode
 	curr := head
